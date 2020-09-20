@@ -1,0 +1,3 @@
+# Ignore ViM persistent undo files and backup files (and any files that end
+# with a tilde).
+*~
